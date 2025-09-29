@@ -1,6 +1,6 @@
 ﻿#include "Sentiment.h"
 
-//SUPPORT FUNCTION TO FIND THE CURRENT WORD IN THE SENTIMENT VECTOR & RETURN THE SENTIMENT VALUE
+//SUPPORT FUNCTION TO FIND THE CURRENT WORD IN THE SENTEMENT VECTOR & RETURN THE SENTIMENT VALUE
 //PRE:   accepts a string (in) and the words list
 //POST:  returns the sentiment of the word if found or the value 0 if not
 double sentimentVal(string in, vector<wordList> &words) {
