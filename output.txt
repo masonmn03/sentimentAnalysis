@@ -1,0 +1,544 @@
+PROCESSING FILE: review1.txt
+
+FORMATTED REVIEW: 
+This was an amazing restaurant! The pizza crust was delicious, and I loved the 
+pasta. The atmosphere was wonderful and enchanting. 
+
+ORIGINAL SENTIMENT: 7.95
+
+Words Updated to be more Positive: 
+Review not updated. The sentiment remains: 7.95
+
+Words Updated to be more Negative: 
+             amazing      1.26                         occur     -1.67
+           delicious       2.2                     invisible     -1.65
+               loved      1.21                     lingering     -1.69
+           wonderful      2.76                          cole     -2.19
+TOTALS:                   7.43                                    -7.2
+
+Updated Review (More negative): 
+"this was an occur restaurant the pizza crust was invisible and i lingering the 
+pasta the atmosphere was cole and enchanting "
+
+Updated sentiment: -6.68
+
+
+PROCESSING FILE: review2.txt
+
+FORMATTED REVIEW: 
+An interesting local place with river views and good food in the moderate price 
+range. It leans heavily toward sea food but there are menu items for the foul 
+and bovine inclined. Reservations for diner are a must, particularly on Friday 
+and Saturday or any day a popular show is appearing at the Count Basie Theatre. 
+Two appetizers and two entrees with nonalcoholic drinks set us back $91 with 
+tip. Fairly reasonable. We sat at a lovely set, uncomplicated, table with a 
+beautiful view of the Navesink river and it's boat traffic. The service was 
+polite, amiable and generally proficient about seeing to our needs. On this day 
+I opened with the caprese salad which was very nicely done. The pesto was a 
+tasty accent, not over powering. The wet mozzarella perfect and heirloom 
+tomatoes glorious. They flavors coming together very nicely. My wife had an 
+oyster dish that I'm having a senior moment trying to pull the name from 
+memory, however it's sauce was delicious (I'm not a big oyster fan). I kept my 
+entree simple: fish and chips. The fish was a nice thick piece of cod, not some 
+cod replacement and fried to perfection. The fries were fries. :) My wife had 
+the lobster roll, which she gave high marks. Overall a good place to dine 
+before a show or after a late afternoon/ early evening walk about. It's not 
+child adverse and a few dotted the tables while we were there but, at dinner at 
+least, it runs toward an adult crowd. The parking can be difficult on popular 
+show nights or Friday evening but the municipal lot is just across the street 
+and you don't have to pay after 6pm. It's a thumbs up here. 
+
+ORIGINAL SENTIMENT: 30.75
+
+Words Updated to be more Positive: 
+                foul     -2.84                      together      2.09
+              drinks     -1.34                    refreshing      2.38
+                 big     -1.22                          glad      1.78
+             adverse     -1.05                       calming      1.33
+TOTALS:                  -6.45                                    7.58
+
+Updated Review (More positive): 
+"an interesting local place with river views and good food in the moderate price 
+range it leans heavily toward sea food but there are menu items for the 
+together and bovine inclined reservations for diner are a must particularly on 
+friday and saturday or any day a popular show is appearing at the count basie 
+theatre two appetizers and two entrees with nonalcoholic refreshing set us back 
+ with tip fairly reasonable we sat at a lovely set uncomplicated table with a 
+beautiful view of the navesink river and its boat traffic the service was 
+polite amiable and generally proficient about seeing to our needs on this day i 
+opened with the caprese salad which was very nicely done the pesto was a tasty 
+accent not over powering the wet mozzarella perfect and heirloom tomatoes 
+glorious they flavors coming together very nicely my wife had an oyster dish 
+that im having a senior moment trying to pull the name from memory however its 
+sauce was delicious im not a glad oyster fan i kept my entree simple fish and 
+chips the fish was a nice thick piece of cod not some cod replacement and fried 
+to perfection the fries were fries  my wife had the lobster roll which she gave 
+high marks overall a good place to dine before a show or after a late afternoon 
+early evening walk about its not child calming and a few dotted the tables 
+while we were there but at dinner at least it runs toward an adult crowd the 
+parking can be difficult on popular show nights or friday evening but the 
+municipal lot is just across the street and you dont have to pay after pm its a 
+thumbs up here "
+
+Updated sentiment: 44.78
+
+Words Updated to be more Negative: 
+         interesting      1.61                         witch     -2.33
+             popular      1.05                    irritating     -1.66
+          reasonable       1.3                     impatient     -1.78
+           beautiful      2.73                   embarrassed     -1.56
+              polite      1.91                      gruesome     -1.93
+               tasty      2.52                     creatures     -2.42
+              accent      1.73                         blame     -2.59
+            glorious      1.65                       mistake     -1.87
+            together      2.09                     worthless     -1.41
+                wife      1.23                        bandar     -1.28
+           delicious       2.2                         sweat      -1.5
+                nice      2.09                          hurt     -2.02
+                wife      1.23                        bandar     -1.28
+             overall      1.18                          sick     -2.53
+             popular      1.05                      startled     -1.62
+TOTALS:                  25.57                                  -27.78
+
+Updated Review (More negative): 
+"an witch local place with river views and good food in the moderate price range 
+it leans heavily toward sea food but there are menu items for the foul and 
+bovine inclined reservations for diner are a must particularly on friday and 
+saturday or any day a irritating show is appearing at the count basie theatre 
+two appetizers and two entrees with nonalcoholic drinks set us back  with tip 
+fairly impatient we sat at a lovely set uncomplicated table with a embarrassed 
+view of the navesink river and its boat traffic the service was gruesome 
+amiable and generally proficient about seeing to our needs on this day i opened 
+with the caprese salad which was very nicely done the pesto was a creatures 
+blame not over powering the wet mozzarella perfect and heirloom tomatoes 
+mistake they flavors coming worthless very nicely my bandar had an oyster dish 
+that im having a senior moment trying to pull the name from memory however its 
+sauce was sweat im not a big oyster fan i kept my entree simple fish and chips 
+the fish was a hurt thick piece of cod not some cod replacement and fried to 
+perfection the fries were fries  my bandar had the lobster roll which she gave 
+high marks sick a good place to dine before a show or after a late afternoon 
+early evening walk about its not child adverse and a few dotted the tables 
+while we were there but at dinner at least it runs toward an adult crowd the 
+parking can be difficult on startled show nights or friday evening but the 
+municipal lot is just across the street and you dont have to pay after pm its a 
+thumbs up here "
+
+Updated sentiment: -22.6
+
+
+PROCESSING FILE: review3.txt
+
+FORMATTED REVIEW: 
+"Jennifer is very nice and responsive. The location of the apt is great. 
+However - the bed was small and smelled bad. The apt also smelled weird. We had 
+to sleep on a mattress on the floor - the building is very old. - the apt is 
+not clean and due to construction it was very noisy. However. We do appreciate 
+the stay and the location" 
+
+ORIGINAL SENTIMENT: -2.46
+
+Words Updated to be more Positive: 
+             smelled     -2.44                      divorced      1.38
+             smelled     -2.44                      pregnant      1.33
+               weird     -1.32                   comfortable      2.22
+               clean     -1.06                          sing      1.75
+               noisy     -1.32                        parade      1.59
+TOTALS:                  -8.58                                    8.27
+
+Updated Review (More positive): 
+"jennifer is very nice and responsive the location of the apt is great however  
+the bed was small and divorced bad the apt also pregnant comfortable we had to 
+sleep on a mattress on the floor  the building is very old  the apt is not sing 
+and due to construction it was very parade however we do appreciate the stay 
+and the location "
+
+Updated sentiment: 14.39
+
+Words Updated to be more Negative: 
+                nice      2.09                         gross      -2.1
+          responsive      1.03                        lethal     -1.36
+               great      1.48                         beast     -2.47
+          appreciate      1.48                        insane      -1.3
+TOTALS:                   6.08                                   -7.23
+
+Updated Review (More negative): 
+"jennifer is very gross and lethal the location of the apt is beast however  the 
+bed was small and smelled bad the apt also smelled weird we had to sleep on a 
+mattress on the floor  the building is very old  the apt is not clean and due 
+to construction it was very noisy however we do insane the stay and the 
+location "
+
+Updated sentiment: -15.77
+
+
+PROCESSING FILE: review4.txt
+
+FORMATTED REVIEW: 
+Garon is undoubtedly the most welcoming and nice host ever. You feel at home 
+right away, he is exciting and passionate, discussions are super interesting 
+and he is extremely friendly. A stay at his place is a good mood cure. I highly 
+recommend! It was so nice staying at Garon's! For the first glance it didn't 
+look very fancy or something, but this place is gorgeous from inside out. It's 
+pretty easy to get to subway G train or if you walk a little more you can get 
+to A train which goes directly to JFK airport. Garon is a very kind person, 
+very open-minded and friendly! We also have a lot in common in area of culture! 
+I'll recommend this place to everyone who is open-minded and want to feel how 
+people live there in NYC. Neighborhood looked safe. Despite it was one of the 
+coldest weeks for last year in town, but heating worked well and the room was 
+warm! "I had the most beautiful stay, Garon is a very special person and an 
+absolute angel, made me feel totally at home in a highly peaceful and relaxed 
+environment, I throughly recommend Bliss Art Space! 
+
+ORIGINAL SENTIMENT: 25.32
+
+Words Updated to be more Positive: 
+                feel     -1.07                       happily      2.32
+                 ill     -1.04                     luxurious      1.27
+                feel     -1.07                 relationships      1.61
+            absolute     -1.51                          sure      1.41
+                feel     -1.07                      terrific      2.39
+TOTALS:                  -5.76                                       9
+
+Updated Review (More positive): 
+"garon is undoubtedly the most welcoming and nice host ever you happily at home 
+right away he is exciting and passionate discussions are super interesting and 
+he is extremely friendly a stay at his place is a good mood cure i highly 
+recommend it was so nice staying at garons for the first glance it didnt look 
+very fancy or something but this place is gorgeous from inside out its pretty 
+easy to get to subway g train or if you walk a little more you can get to a 
+train which goes directly to jfk airport garon is a very kind person very 
+openminded and friendly we also have a lot in common in area of culture 
+luxurious recommend this place to everyone who is openminded and want to 
+relationships how people live there in nyc neighborhood looked safe despite it 
+was one of the coldest weeks for last year in town but heating worked well and 
+the room was warm i had the most beautiful stay garon is a very special person 
+and an sure angel made me terrific totally at home in a highly peaceful and 
+relaxed environment i throughly recommend bliss art space "
+
+Updated sentiment: 40.08
+
+Words Updated to be more Negative: 
+           welcoming      2.41                  impoverished     -1.79
+                nice      2.09                          cole     -2.19
+               right      1.35                     desperate     -2.07
+         interesting      1.61                        drinks     -1.34
+            friendly      1.94                      wretched     -1.51
+                nice      2.09                         awful     -3.21
+            gorgeous      2.68                      worrying     -1.39
+              pretty      1.32                       strange     -2.06
+                easy      1.97                         crime     -1.89
+            friendly      1.94                       painful     -3.69
+                safe      2.08                        grainy     -1.54
+                well       1.5                         cheap     -1.76
+                warm      1.46                 uncomfortable     -1.85
+           beautiful      2.73                        deaths     -2.01
+            peaceful      2.22                       changed     -1.26
+             relaxed      1.85                   communities     -1.39
+TOTALS:                  31.24                                  -30.95
+
+Updated Review (More negative): 
+"garon is undoubtedly the most impoverished and cole host ever you feel at home 
+desperate away he is exciting and passionate discussions are super drinks and 
+he is extremely wretched a stay at his place is a good mood cure i highly 
+recommend it was so awful staying at garons for the first glance it didnt look 
+very fancy or something but this place is worrying from inside out its strange 
+crime to get to subway g train or if you walk a little more you can get to a 
+train which goes directly to jfk airport garon is a very kind person very 
+openminded and painful we also have a lot in common in area of culture ill 
+recommend this place to everyone who is openminded and want to feel how people 
+live there in nyc neighborhood looked grainy despite it was one of the coldest 
+weeks for last year in town but heating worked cheap and the room was 
+uncomfortable i had the most deaths stay garon is a very special person and an 
+absolute angel made me feel totally at home in a highly changed and communities 
+environment i throughly recommend bliss art space "
+
+Updated sentiment: -36.87
+
+
+PROCESSING FILE: review5.txt
+
+FORMATTED REVIEW: 
+"For $70/night a few blocks from Times Square....you can't beat it. Here is 
+what I found recently (mid October, 2017). Shunichi went out of his way (via 
+text) to accommodate my late morning arrival (before he had a chance to clean 
+from another guest who had not even left yet). I met him at his employment 
+where he gave me keys and directions for setting my bags down in his living 
+room. From Penn Station to his place, a taxi would normally cost about $10 
+(including tip). From Penn to his employment (opposite direction) and then to 
+his place was about $30 total. Easy to walk the distance(s) if you do not have 
+heavy bags to carry (I did). I would say his neighborhood is quite safe. Basic 
+needs are in the room. If you expect super basic you will not be disappointed, 
+if you expect “style,” then this is not a place for you. I would say that 
+is it clean “enough,” but I did not take a shower. Keys: the key to locks 
+of both building entrance doors (2) are not well aligned. I struggled for a 
+couple of minutes, almost called him (and I can’t really say what to do to 
+get it to work). Key to apt. itself is fine. Never having stayed in downtown 
+NYC, I was interested to learn about noise. Sunichi’s place is about 6 houses 
+in from a main drag (8th Street) and on the second floor. I was impressed with 
+how little I heard from the outside (with the window open a couple of inches), 
+only an occasional siren on 8th (main drag). I slept in until 8:30...sweet! 
+Would I stay there again? I would consider it, but I’d look around for 
+another possibility, too." 
+
+ORIGINAL SENTIMENT: 4.14
+
+Words Updated to be more Positive: 
+               clean     -1.06                        beauty      2.45
+              living     -1.62                    structural      1.41
+        disappointed     -2.08                         style      1.35
+               clean     -1.06                     beautiful      2.73
+              stayed     -2.24                      intimate      1.81
+          occasional     -1.81                          miss      1.42
+TOTALS:                  -9.87                                   11.17
+
+Updated Review (More positive): 
+"for night a few blocks from times squareyou cant beat it here is what i found 
+recently mid october  shunichi went out of his way via text to accommodate my 
+late morning arrival before he had a chance to beauty from another guest who 
+had not even left yet i met him at his employment where he gave me keys and 
+directions for setting my bags down in his structural room from penn station to 
+his place a taxi would normally cost about  including tip from penn to his 
+employment opposite direction and then to his place was about  total easy to 
+walk the distances if you do not have heavy bags to carry i did i would say his 
+neighborhood is quite safe basic needs are in the room if you expect super 
+basic you will not be style if you expect style then this is not a place for 
+you i would say that is it beautiful enough but i did not take a shower keys 
+the key to locks of both building entrance doors  are not well aligned i 
+struggled for a couple of minutes almost called him and i cant really say what 
+to do to get it to work key to apt itself is fine never having intimate in 
+downtown nyc i was interested to learn about noise sunichis place is about  
+houses in from a main drag th street and on the second floor i was impressed 
+with how little i heard from the outside with the window open a couple of 
+inches only an miss siren on th main drag i slept in until sweet would i stay 
+there again i would consider it but id look around for another possibility too "
+
+Updated sentiment: 25.18
+
+Words Updated to be more Negative: 
+                easy      1.97                    disturbing     -1.36
+                safe      2.08                         angry      -2.3
+               style      1.35                    unemployed      -1.6
+                well       1.5                      innocent     -1.59
+                fine      1.72                    disturbing     -1.36
+               sweet      1.47                     demanding     -2.09
+TOTALS:                  10.09                                   -10.3
+
+Updated Review (More negative): 
+"for night a few blocks from times squareyou cant beat it here is what i found 
+recently mid october  shunichi went out of his way via text to accommodate my 
+late morning arrival before he had a chance to clean from another guest who had 
+not even left yet i met him at his employment where he gave me keys and 
+directions for setting my bags down in his living room from penn station to his 
+place a taxi would normally cost about  including tip from penn to his 
+employment opposite direction and then to his place was about  total disturbing 
+to walk the distances if you do not have heavy bags to carry i did i would say 
+his neighborhood is quite angry basic needs are in the room if you expect super 
+basic you will not be disappointed if you expect unemployed then this is not a 
+place for you i would say that is it clean enough but i did not take a shower 
+keys the key to locks of both building entrance doors  are not innocent aligned 
+i struggled for a couple of minutes almost called him and i cant really say 
+what to do to get it to work key to apt itself is disturbing never having 
+stayed in downtown nyc i was interested to learn about noise sunichis place is 
+about  houses in from a main drag th street and on the second floor i was 
+impressed with how little i heard from the outside with the window open a 
+couple of inches only an occasional siren on th main drag i slept in until 
+demanding would i stay there again i would consider it but id look around for 
+another possibility too "
+
+Updated sentiment: -16.25
+
+
+PROCESSING FILE: review6.txt
+
+FORMATTED REVIEW: 
+For my stay the apartment was also not ideal, there is no couch, only cushions 
+on the floor and there is no real table and chairs. I had to work from home 
+sometimes and could not really do it anywhere. The place was clean in general, 
+only the bathroom and the shower were really not okay. Especially the shower 
+curtain was mildewed. The kitchen was clean and well equipped. Apartment has an 
+AC, which is definitely a pro. 
+
+ORIGINAL SENTIMENT: 2.25
+
+Words Updated to be more Positive: 
+           sometimes      -1.1                      festival      1.45
+               clean     -1.06                        superb      1.75
+               clean     -1.06                      enjoying      2.29
+TOTALS:                  -3.22                                    5.49
+
+Updated Review (More positive): 
+"for my stay the apartment was also not ideal there is no couch only cushions on 
+the floor and there is no real table and chairs i had to work from home 
+festival and could not really do it anywhere the place was superb in general 
+only the bathroom and the shower were really not okay especially the shower 
+curtain was mildewed the kitchen was enjoying and well equipped apartment has 
+an ac which is definitely a pro "
+
+Updated sentiment: 10.96
+
+Words Updated to be more Negative: 
+               ideal      2.22                      shocking     -1.76
+                okay      1.05                         fiery     -1.57
+                well       1.5                    outrageous     -1.82
+TOTALS:                   4.77                                   -5.15
+
+Updated Review (More negative): 
+"for my stay the apartment was also not shocking there is no couch only cushions 
+on the floor and there is no real table and chairs i had to work from home 
+sometimes and could not really do it anywhere the place was clean in general 
+only the bathroom and the shower were really not fiery especially the shower 
+curtain was mildewed the kitchen was clean and outrageous equipped apartment 
+has an ac which is definitely a pro "
+
+Updated sentiment: -7.67
+
+
+PROCESSING FILE: review7.txt
+
+FORMATTED REVIEW: 
+The Midtown Castle is a beautiful place to stay in the center of the city. 
+Truly a sanctuary with everything you need. Little touches of nature and beauty 
+throughout. Waking up with the sun from the skylight was amazing. This 
+apartment is convenient and functional. The huge skylight makes it feel open 
+and airy. And it is located smack dab in the middle of Manhattan. Highly 
+recommended. Great place. Would definitely recommend! Jennifer is really sweet 
+and easy going. Beautiful and stylish spot in a very unique building! Jennifer 
+is a wonderful host and was kind enough to meet us for out late-night check-in. 
+We loved the apartment! Jennifer's space was such a lovely experience. 
+PreCheckin and checkin was detailed and seamless, she made it easier on us and 
+answered all questions so quickly. The space itself is such a unique, clear & 
+zen energy- we loved it. Not to mention it was very clean & close to 
+everything! Definitely be prepared for the 4flight workout (we appreciated 
+that)! We enjoyed the space and location & would recommend this to anyone 
+coming to explore the city!! "Jennifer was super friendly and helpful. Great 
+host with an amazing studio apartment right in the middle of NYC. Everything is 
+walking distance! The Empire State Building, Times Square, and New York library 
+were all around the corner or less than 15 minutes walk. Best location ever and 
+great relaxing place to stay. 
+
+ORIGINAL SENTIMENT: 37.79
+
+Words Updated to be more Positive: 
+                feel     -1.07                        strong      1.73
+               clean     -1.06                         party      1.52
+TOTALS:                  -2.13                                    3.25
+
+Updated Review (More positive): 
+"the midtown castle is a beautiful place to stay in the center of the city truly 
+a sanctuary with everything you need little touches of nature and beauty 
+throughout waking up with the sun from the skylight was amazing this apartment 
+is convenient and functional the huge skylight makes it strong open and airy 
+and it is located smack dab in the middle of manhattan highly recommended great 
+place would definitely recommend jennifer is really sweet and easy going 
+beautiful and stylish spot in a very unique building jennifer is a wonderful 
+host and was kind enough to meet us for out latenight checkin we loved the 
+apartment jennifers space was such a lovely experience precheckin and checkin 
+was detailed and seamless she made it easier on us and answered all questions 
+so quickly the space itself is such a unique clear  zen energy we loved it not 
+to mention it was very party  close to everything definitely be prepared for 
+the flight workout we appreciated that we enjoyed the space and location  would 
+recommend this to anyone coming to explore the city jennifer was super friendly 
+and helpful great host with an amazing studio apartment right in the middle of 
+nyc everything is walking distance the empire state building times square and 
+new york library were all around the corner or less than  minutes walk best 
+location ever and great relaxing place to stay "
+
+Updated sentiment: 43.17
+
+Words Updated to be more Negative: 
+           beautiful      2.73                       ominous     -2.53
+              beauty      2.45                     impatient     -1.78
+             amazing      1.26                       graphic     -1.44
+          convenient      1.79                       enemies     -1.71
+                airy      1.69                          pain     -1.42
+               great      1.48                         cheap     -1.76
+               sweet      1.47                      minority     -2.43
+                easy      1.97                      shocking     -1.76
+           beautiful      2.73                   frustrating     -1.46
+             stylish      1.39                         blame     -2.59
+           wonderful      2.76                       mistake     -1.87
+               loved      1.21                         stray      -1.7
+               loved      1.21                        belong     -2.07
+             enjoyed      1.22                      startled     -1.62
+            friendly      1.94                      arrested     -1.53
+             helpful      1.71                        beings     -2.29
+               great      1.48                         dizzy     -1.54
+             amazing      1.26                     precisely     -1.77
+               right      1.35                       monster     -2.82
+                best       1.4                    terrifying     -2.47
+               great      1.48                         flies     -1.32
+TOTALS:                  35.98                                  -39.88
+
+Updated Review (More negative): 
+"the midtown castle is a ominous place to stay in the center of the city truly a 
+sanctuary with everything you need little touches of nature and impatient 
+throughout waking up with the sun from the skylight was graphic this apartment 
+is enemies and functional the huge skylight makes it feel open and pain and it 
+is located smack dab in the middle of manhattan highly recommended cheap place 
+would definitely recommend jennifer is really minority and shocking going 
+frustrating and blame spot in a very unique building jennifer is a mistake host 
+and was kind enough to meet us for out latenight checkin we stray the apartment 
+jennifers space was such a lovely experience precheckin and checkin was 
+detailed and seamless she made it easier on us and answered all questions so 
+quickly the space itself is such a unique clear  zen energy we belong it not to 
+mention it was very clean  close to everything definitely be prepared for the 
+flight workout we appreciated that we startled the space and location  would 
+recommend this to anyone coming to explore the city jennifer was super arrested 
+and beings dizzy host with an precisely studio apartment monster in the middle 
+of nyc everything is walking distance the empire state building times square 
+and new york library were all around the corner or less than  minutes walk 
+terrifying location ever and flies relaxing place to stay "
+
+Updated sentiment: -38.07
+
+
+PROCESSING FILE: review8.txt
+
+FORMATTED REVIEW: 
+Would say our greatest compliments to Jennifer, the host of Midtown Castle. We 
+spent in this lovely apartment in the heart of Manhattan one month (April, 
+2012) and will remember this time as ours best. The apartment is pretty 
+spacious and great located - the 5-th Ave right around the corner. There is 
+everything you can need during your short or long stay. Jennifer is very 
+friendly, vigorous and very responsible host. Thanks her and highly recomend 
+this apartment for everyone who are looking for a quiet place right in the 
+center of the boiling Midtown!" We had a wonderful stay at Jennifer's charming 
+apartment! They were very organized and helpful; I would definitely recommend 
+staying at the Midtown Castle! 
+
+ORIGINAL SENTIMENT: 26.47
+
+Words Updated to be more Positive: 
+Review not updated. The sentiment remains: 26.47
+
+Words Updated to be more Negative: 
+                best       1.4                           bin     -2.05
+              pretty      1.32                          acts     -2.48
+            spacious      1.07                     precisely     -1.77
+               great      1.48                      bleeding     -1.35
+               right      1.35                     exhausted      -2.1
+               short      1.05                         angry      -2.3
+            friendly      1.94                      insisted      -1.8
+              thanks      1.38                        greedy     -2.17
+               quiet      1.34                       causing     -1.69
+               right      1.35                        stayed     -2.24
+           wonderful      2.76                      suddenly     -1.64
+            charming      2.53                     committed     -1.78
+             helpful      1.71                       monster     -2.82
+TOTALS:                  20.68                                  -26.19
+
+Updated Review (More negative): 
+"would say our greatest compliments to jennifer the host of midtown castle we 
+spent in this lovely apartment in the heart of manhattan one month april  and 
+will remember this time as ours bin the apartment is acts precisely and 
+bleeding located  the th ave exhausted around the corner there is everything 
+you can need during your angry or long stay jennifer is very insisted vigorous 
+and very responsible host greedy her and highly recomend this apartment for 
+everyone who are looking for a causing place stayed in the center of the 
+boiling midtown we had a suddenly stay at jennifers committed apartment they 
+were very organized and monster i would definitely recommend staying at the 
+midtown castle "
+
+Updated sentiment: -20.4
+
+
